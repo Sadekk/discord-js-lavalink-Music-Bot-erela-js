@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "@discordjs/builders": "^0.11.0",
-    "@discordjs/opus": "^0.7.0",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.7.5",
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",
-    "discord.js": "^13.5.0",
+    "discord.js": "^13.10.3",
     "enmap": "^5.8.7",
     "erela.js": "^2.3.3",
     "erela.js-apple": "^1.2.6",

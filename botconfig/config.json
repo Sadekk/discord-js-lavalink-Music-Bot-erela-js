@@ -1,8 +1,8 @@
 {
-   "token": "Bot Token",
+   "token": "OTk1NzgxODk3MTgxNDcwNzYx.G6yaN_.OJjDSqJ30JSHtoF5t4SzR-_IfESLiPWZmhnsG4",
    "prefix": "?",
    "ownerIDS": [
-      "442355791412854784"
+      "513066398847729696"
    ],
    "status": {
       "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
@@ -13,8 +13,8 @@
    "clientsettings": {
       "nodes": [
          {
-            "host": "localhost",
-            "port": 2333,
+            "host": "lava.link",
+            "port": 80,
             "password": "youshallnotpass"
          }
       ]
